@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Ingeniero en sistemas computacionales, apasionado por leer, aprender y ser mejor cada dia un 1%, ademas de eso apasionado por criptomonedas e IA,  si quieres  hablar conmigo te dejo mis redes sociales: 
-
-Facebook: Luis Vargas
-Instagram:luisvar_glez
+Ingeniero en sistemas computacionales, apasionado por leer, aprender y ser mejor cada dia un 1%, ademas de eso apasionado por criptomonedas e IA,  si quieres  hablar conmigo te dejo mis redes sociales en el apartado
