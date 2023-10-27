@@ -1,5 +1,5 @@
 <h1 align="center">Hola! 👋, Soy Luis Vargas</h1>
-<h3 align="center">Un apasionado y amante de ciberseguridad, crypto, videojuegos y tenis</h3>
+<h3 align="center">Un apasionado y amante de:, analisis de datos, ciberseguridad, crypto, videojuegos y tenis</h3>
 
 - 👨‍💻 Mis projectos estan en: [https://github.com/LuisVargas48](https://github.com/LuisVargas48)
 
