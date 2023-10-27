@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Ingeniero en sistemas computacionales, apasionado por leer, aprender y ser mejor cada dia un 1%, ademas de eso apasionado por criptomonedas e IA,  si quieres  hablar conmigo te dejo mis redes sociales en el apartado
+Ingeniero en sistemas computacionales, apasionado por leer, aprender y ser mejor cada dia un 1%, ademas de eso apasionado por criptomonedas e IA,  si quieres  hablar conmigo te dejo mis redes sociales en el apartado. 
+
+Ademas de eso, soy muy fan de los videojuegos y del Tenis 
