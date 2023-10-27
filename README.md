@@ -12,11 +12,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/luis47079499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luis47079499" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/luis vargas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis vargas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/luis-vargas-938570250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luis-vargas-938570250/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15628115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15628115" height="30" width="40" /></a>
 <a href="https://fb.com/luis vargas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luis vargas" height="30" width="40" /></a>
 <a href="https://instagram.com/luisvar_glez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luisvar_glez" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@za19012140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@za19012140" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@za19012140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@za19012140" height="30" width="40" /></a>
 <a href="https://discord.gg/LuisVar_Glez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="LuisVar_Glez" height="30" width="40" /></a>
 </p>
 
