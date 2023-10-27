@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 Ingeniero en sistemas computacionales, apasionado por leer, aprender y ser mejor cada dia un 1%, ademas de eso apasionado por criptomonedas e IA,  si quieres  hablar conmigo te dejo mis redes sociales en el apartado. 
 
 Ademas de eso, soy muy fan de los videojuegos y del Tenis 
+![image](https://github.com/LuisVargas48/LuisVargas48/assets/36382404/5a1a1b70-5425-4276-b362-3f19da17dc75)
