@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/luis47079499" target="blank"><img src="https://img.shields.io/twitter/follow/luis47079499?logo=twitter&style=for-the-badge" alt="luis47079499" /></a> </p>
 
-- 👨‍💻 Mis projectos estan en: [https://github.com/LuisVargas48](https://github.com/LuisVargas48)
+- 👨‍💻 Mis proyectos estan en: [https://github.com/LuisVargas48](https://github.com/LuisVargas48)
 
 - 💬 Preguntame sobre **Python,C++, EDD,**
 
