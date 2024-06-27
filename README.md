@@ -1,5 +1,5 @@
 <h1 align="center">Hola! 👋, Soy Luis Vargas</h1>
-<h3 align="center">Un apasionado y amante de ciberseguridad, crypto, videojuegos y tenis</h3>
+<h3 align="center">Un apasionado y amante de ciberseguridad, testing, crypto, videojuegos y tenis</h3>
 
 <p align="left"> <a href="https://twitter.com/luis47079499" target="blank"><img src="https://img.shields.io/twitter/follow/luis47079499?logo=twitter&style=for-the-badge" alt="luis47079499" /></a> </p>
 
