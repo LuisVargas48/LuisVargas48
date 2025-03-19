@@ -5,7 +5,7 @@
 
 - 👨‍💻 Mis proyectos estan en: [https://github.com/LuisVargas48](https://github.com/LuisVargas48)
 
-- 💬 Preguntame sobre **Python,C++, EDD, testing de software,**
+- 💬 Preguntame sobre **Python,C++, EDD, testing de software,DevOps y Ciberseguridad**
 
 - Correo **luisvargasglez2000@gmail.com**
 
