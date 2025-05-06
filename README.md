@@ -9,7 +9,6 @@
 
 - Correo **luisvargasglez2000@gmail.com**
 
-- ⚡ Fun fact **Me gusta mucho jugar videojuegos,  tácticos y de mesa, ademas de leer libros de emprendimiento, mejora continua y desarrollo personal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
